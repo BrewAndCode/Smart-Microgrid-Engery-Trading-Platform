@@ -1,4 +1,4 @@
-# Microgrid Energy Trading Platform 
+# Microgrid Energy Trading Platform
 
 A real-time energy trading simulation system that analyzes market conditions and generates intelligent BUY / SELL / WAIT recommendations using a decision engine.
 
